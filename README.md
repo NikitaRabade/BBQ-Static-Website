@@ -50,6 +50,7 @@ We welcome contributions! If you find any issues or have feature requests, pleas
 
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 1] FreePik License : https://www.freepikcompany.com/legal/?_gl=1*osi9yw*_ga*ODg3NjA1MDk2LjE3MTQ2MzM5MjM.*_ga_QWX66025LC*MTcxNDYzMzkyMy4xLjEuMTcxNDYzMzk4NC42MC4wLjA.*_ga_18B6QPTJPC*MTcxNDYzMzkyNi4xLjEuMTcxNDYzMzk4NC4yLjAuMA..#nav-freepik
 
 2] Flaticon : https://www.freepikcompany.com/legal/?_ga=2.32929341.2018618127.1714633927-144669484.1714633927&_gl=1*s50ku3*test_ga*MTQ0NjY5NDg0LjE3MTQ2MzM5Mjc.*test_ga_523JXC6VL7*MTcxNDYzMzkzOC4xLjAuMTcxNDYzMzkzOC42MC4wLjA.*fp_ga*MTQ0NjY5NDg0LjE3MTQ2MzM5Mjc.*fp_ga_1ZY8468CQB*MTcxNDYzMzk0MC4xLjAuMTcxNDYzMzk0MC42MC4wLjA.#nav-flaticon-agreement
